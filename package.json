@@ -1,0 +1,8 @@
+{
+  "name": "Gerenciador",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/levisatto/Gerenciador.git",
+  "author": "Levi Satto <46165045+levisatto@users.noreply.github.com>",
+  "license": "MIT"
+}
