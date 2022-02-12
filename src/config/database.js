@@ -14,3 +14,4 @@ module.exports = {
 
 // 16 - passar os parametros de module para o arquivo .env
 // 17 - criar arquivo .env.example e deixar com os parametros vazios
+// GIT clear  // git rm -rf --cached .
