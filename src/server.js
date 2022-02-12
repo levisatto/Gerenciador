@@ -37,4 +37,6 @@ app.listen(5000, () => {
 // 13 - criar pasta DATABASE e mover pastas MIGRATIONS e SEEDERS para dentro de DATABASE
 // 14 - trocar nome do arquivo json em /SRC/CONFIG para database.js - editar arquivo
 // 15 - criar arquivo .env na pasta raiz
+// DATABASE.JS
+
 

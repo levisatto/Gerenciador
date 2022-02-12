@@ -15,3 +15,5 @@ module.exports = {
 // 16 - passar os parametros de module para o arquivo .env
 // 17 - criar arquivo .env.example e deixar com os parametros vazios
 // GIT clear  // git rm -rf --cached .
+// 18 - MOVER INDEX.JS (DENTRO DA PASTA MODELS) PARA PASTA DATABASE
+// 19 - EDITAR INDEX.JS
